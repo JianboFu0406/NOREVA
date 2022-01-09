@@ -7,6 +7,14 @@ commit](https://img.shields.io/github/last-commit/idrblab/NOREVA)](https://githu
 
 The NOREVA package not only enables the pre-processing and assessment of multi-class/time-series metabolomic data but also realize a high-throughput discovery of the well-performing pre-processing workflows. Particularly, five well-established criteria, each with a distinct underlying theory, are integrated to ensure a much more comprehensive evaluation than any single criterion. This study provides guidelines for researchers who will engage in biomarker discovery or other differential profiling “omics” studies with respect selecting the most appropriate preprocessing method for a given dataset.For function descriptions and analysis of sample datasets you can also use “??NOREVA” command in R. NOREVA version 2.1.1 realizes (1) the parallel computing together with memory management and (2) the optimization of I/O efficiency.
 
+You can cite the `NOREVA` publication as follows:
+
+> **Optimization of metabolomic data processing using NOREVA.**
+>
+> J. B. Fu, Y. Zhang, Y. X. Wang, H. N. Zhang, J. Liu, J. Tang, Q. X. Yang, H. C. Sun, W. Q. Qiu, Y. H. Ma, Z. R. Li, M. Y. Zheng, F. Zhu*.
+>
+> _Nature Protocols_ 2022 Feb . doi: [10.1038/s41596-021-00636-9](https://www.nature.com/articles/s41596-021-00636-9).
+
 ## Contents
 - [Installation](#installation)<br>
 - [Description](#Description)<br>
